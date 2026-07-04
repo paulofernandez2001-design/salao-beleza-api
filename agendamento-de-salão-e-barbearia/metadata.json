@@ -1,0 +1,6 @@
+{
+  "name": "Agendamento de Salão e Barbearia",
+  "description": "Sistema completo de agendamento online e gestão de clientes para salões de beleza e barbearias com painel de cliente e painel administrativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
